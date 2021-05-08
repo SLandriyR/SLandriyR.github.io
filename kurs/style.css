@@ -1,0 +1,64 @@
+body{
+    background:url('https://stereo-news.com/wp-content/uploads/2020/12/mstiteli-final-2019-smotret-onlajn.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+header{
+    width:1900px;
+    height:150px;
+    background: rgba(0, 0, 255, 0.5);
+    color:white;
+}
+#Marvel{
+    width: 450px;
+    height:150px;
+    float:center;
+}
+.mes{
+    width:1900;
+    height:400px;
+    background: rgba(0, 0, 255, 0.5);
+    color:white;
+
+}
+main{
+    width:1000px;
+    height:2500px;
+    background: blue;
+    color:white;
+    margin:5px;
+    float:left;
+}
+hr{
+width:1000px; 
+height:1px;
+background:white;   
+color:white;  
+}
+#cap{
+    width:400px;
+    height:250px;
+}
+#iron{
+    width:400px;
+    height:250px;
+}
+#tor{
+    width:400px;
+    height:250px;
+}
+#hulk{
+    width:400px;
+    height:250px;
+}
+aside{
+    width:800px;
+    height:1500px;
+    background:green;
+    color:white; 
+    float:right;
+    margin:5px;
+}
+a{
+    color:white ;
+}
